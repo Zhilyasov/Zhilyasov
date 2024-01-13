@@ -42,17 +42,22 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zhilyasov&theme=dark&background=45%2C000000%2C000000)](https://git.io/streak-stats)
-
+<br>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zhilyasov&theme=dark)](https://github.com/Zhilyasov/leetcode-stats)
-
+<br>
 [![codewars](https://www.codewars.com/users/Zhilyasov/badges/large)](https://www.codewars.com/users/Zhilyasov)
-
+<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhilyasov&theme=solarized_dark)
-
+<br>
 
 ### Activity:
-![snake gif](https://github.com/Zhilyasov/Zhilyasov/blob/output/github-contribution-grid-snake-dark.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zhilyasov/Zhilyasov/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zhilyasov/Zhilyasov/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+<br>
 
 ### You can write me:
 <div>
