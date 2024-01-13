@@ -39,7 +39,6 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,tailwind,nodejs,py,bots,docker,firebase,git,github,heroku,sqlite,vite,webpack&perline=7)](https://skillicons.dev)
 
-<br><br>
 
 ### :fire: My Stats :
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
@@ -50,25 +49,26 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zhilyasov&theme=dark&background=45%2C000000%2C000000)](https://git.io/streak-stats)
 
-<br><br>
 
-# Actual:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhilyasov&repo=ToDo)](https://github.com/Zhilyasov/ToDo)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhilyasov)](https://github.com/anuraghazra/github-readme-stats)
-
-<br><br>
-
-# **Activity:** 
+### Activity:
 ![snake gif](https://github.com/Zhilyasov/Zhilyasov/blob/output/github-contribution-grid-snake-dark.svg)
 
-<br><br>
 
-# **Socials:**
-Telegram
-<br>
-Instagram
+### You can write me:
+<div>
+  <ul>
+    <li>
+      <a href="https://t.me/Zhilyasov">Telegram</a>
+    </li>
+    <li>
+      <a href="mailto:zhilyasovit@gmail.com">Mail</a>
+    </li>
+    <li>
+      <a href="https://www.instagram.com/zhilyasov07">Instagram</a>
+    </li>
+    
+  </ul>
+</div>
 
-<br><br><br>
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
