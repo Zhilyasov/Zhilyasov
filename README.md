@@ -41,13 +41,13 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 ### :fire: My Stats :
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zhilyasov&theme=dark&background=45%2C000000%2C000000)](https://git.io/streak-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zhilyasov&theme=dark)](https://github.com/Zhilyasov/leetcode-stats)
 
 [![codewars](https://www.codewars.com/users/Zhilyasov/badges/large)](https://www.codewars.com/users/Zhilyasov)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhilyasov&theme=solarized_dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zhilyasov&theme=dark&background=45%2C000000%2C000000)](https://git.io/streak-stats)
 
 
 ### Activity:
@@ -57,18 +57,22 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### You can write me:
 <div>
   <ul>
-    <li>
-      <a href="https://t.me/Zhilyasov">Telegram</a>
-    </li>
-    <li>
-      <a href="mailto:zhilyasovit@gmail.com">Mail</a>
-    </li>
-    <li>
-      <a href="https://www.instagram.com/zhilyasov07">Instagram</a>
-    </li>
-    
+    <a href="https://t.me/Zhilyasov">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <br>
+    <a href="mailto:zhilyasovit@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+    </a>
+    <br>
+    <a href="https://www.instagram.com/zhilyasov07" items="center">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+    </a>
   </ul>
 </div>
+
+<br>
+<br>
 
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
