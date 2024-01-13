@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+<br>
 
 # Hi! My name is Aydamir Zhilyasov 😁
-
+<br><br><br>
 # **Skills:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,tailwind,nodejs,py,bots,docker,firebase,git,github,heroku,sqlite,vite,webpack&perline=7)](https://skillicons.dev)
