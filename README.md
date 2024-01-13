@@ -24,6 +24,8 @@ actual:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,tailwind,nodejs,py,bots,docker,firebase,git,github,heroku,sqlite,vite,webpack&perline=7)](https://skillicons.dev)
 
 
+![snake gif](https://github.com/Zhilyasov/Zhilyasov/blob/output/github-contribution-grid-snake.gif)
+
 <b>Socials:</b>
 
 
