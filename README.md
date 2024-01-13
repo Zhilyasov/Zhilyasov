@@ -41,13 +41,21 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 ### :fire: My Stats :
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zhilyasov&theme=dark&background=45%2C000000%2C000000)](https://git.io/streak-stats)
+
 <br>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zhilyasov&theme=dark)](https://github.com/Zhilyasov/leetcode-stats)
+
 <br>
+
 [![codewars](https://www.codewars.com/users/Zhilyasov/badges/large)](https://www.codewars.com/users/Zhilyasov)
+
 <br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhilyasov&theme=solarized_dark)
+
 <br>
 
 ### Activity:
