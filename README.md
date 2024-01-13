@@ -10,6 +10,9 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zhilyasov&theme=dark&background=45%2C000000%2C000000)](https://git.io/streak-stats)
 <br><br>
 # Actual:
 
@@ -17,7 +20,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhilyasov)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhilyasov&theme=dark&background=000000)](https://git.io/streak-stats)
 <br><br>
 # **Profile Stats:**
 
@@ -27,6 +29,8 @@
 ![snake gif](https://github.com/Zhilyasov/Zhilyasov/blob/output/github-contribution-grid-snake-dark.svg)
 <br><br>
 # **Socials:**
-
+Telegram
+Instagram
+<br><br><br>
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
