@@ -5,9 +5,11 @@
   <a href="mailto:zhilyasovit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
+  <!--
   <a href="https://www.upwork.com/freelancers/~013f05fc39d7015c50">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
+  -->
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Zhilyasov&style=flat-square&color=blue" alt=""/>
