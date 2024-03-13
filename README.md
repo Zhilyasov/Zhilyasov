@@ -31,33 +31,33 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I fighting on CodeWars.
 
 - :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhilyasovit@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,tailwind,nodejs,py,bots,docker,firebase,git,github,heroku,sqlite,vite,webpack&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,git,webpack&perline=7)](https://skillicons.dev)
 
 
 ### :fire: My Stats :
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zhilyasov&theme=dark&background=45%2C000000%2C000000)](https://git.io/streak-stats)
-
+-->
 <br>
-
+<!--
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zhilyasov&theme=dark)](https://github.com/Zhilyasov/leetcode-stats)
-
+-->
 <br>
 
 [![codewars](https://www.codewars.com/users/Zhilyasov/badges/large)](https://www.codewars.com/users/Zhilyasov)
 
 <br>
-
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhilyasov&theme=solarized_dark)
-
+-->
 <br>
-
+<!--
 ### Activity:
 
 <picture>
@@ -66,6 +66,8 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 <br>
+
+-->
 
 ### You can write me:
 <div>
@@ -87,5 +89,6 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <br>
 <br>
 
-
+<!--
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+-->
